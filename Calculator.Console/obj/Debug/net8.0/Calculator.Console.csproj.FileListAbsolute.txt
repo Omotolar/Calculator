@@ -1,0 +1,14 @@
+c:\Users\Dell\Desktop\GitHub\Calculator\Src\Calculator.Console\bin\Debug\net8.0\Calculator.Console.exe
+c:\Users\Dell\Desktop\GitHub\Calculator\Src\Calculator.Console\bin\Debug\net8.0\Calculator.Console.deps.json
+c:\Users\Dell\Desktop\GitHub\Calculator\Src\Calculator.Console\bin\Debug\net8.0\Calculator.Console.runtimeconfig.json
+c:\Users\Dell\Desktop\GitHub\Calculator\Src\Calculator.Console\bin\Debug\net8.0\Calculator.Console.dll
+c:\Users\Dell\Desktop\GitHub\Calculator\Src\Calculator.Console\bin\Debug\net8.0\Calculator.Console.pdb
+c:\Users\Dell\Desktop\GitHub\Calculator\Src\Calculator.Console\obj\Debug\net8.0\Calculator.Console.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Dell\Desktop\GitHub\Calculator\Src\Calculator.Console\obj\Debug\net8.0\Calculator.Console.AssemblyInfoInputs.cache
+c:\Users\Dell\Desktop\GitHub\Calculator\Src\Calculator.Console\obj\Debug\net8.0\Calculator.Console.AssemblyInfo.cs
+c:\Users\Dell\Desktop\GitHub\Calculator\Src\Calculator.Console\obj\Debug\net8.0\Calculator.Console.csproj.CoreCompileInputs.cache
+c:\Users\Dell\Desktop\GitHub\Calculator\Src\Calculator.Console\obj\Debug\net8.0\Calculator.Console.dll
+c:\Users\Dell\Desktop\GitHub\Calculator\Src\Calculator.Console\obj\Debug\net8.0\refint\Calculator.Console.dll
+c:\Users\Dell\Desktop\GitHub\Calculator\Src\Calculator.Console\obj\Debug\net8.0\Calculator.Console.pdb
+c:\Users\Dell\Desktop\GitHub\Calculator\Src\Calculator.Console\obj\Debug\net8.0\Calculator.Console.genruntimeconfig.cache
+c:\Users\Dell\Desktop\GitHub\Calculator\Src\Calculator.Console\obj\Debug\net8.0\ref\Calculator.Console.dll
