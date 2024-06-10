@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Calculator.Console
-build_property.ProjectDir = C:\Users\Dell\Desktop\GitHub\Calculator\Src\Calculator.Console\
+build_property.ProjectDir = C:\Users\Dell\Desktop\GitHub\Calculator\src\Calculator.Console\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

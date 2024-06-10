@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\Dell\\Desktop\\GitHub\\Calculator\\Src\\Calculator.Console\\Calculator.Console.csproj": {}
+    "C:\\Users\\Dell\\Desktop\\GitHub\\Calculator\\src\\Calculator.Console\\Calculator.Console.csproj": {}
   },
   "projects": {
-    "c:\\Users\\Dell\\Desktop\\GitHub\\Calculator\\Src\\Calculator.Console\\Calculator.Console.csproj": {
+    "C:\\Users\\Dell\\Desktop\\GitHub\\Calculator\\src\\Calculator.Console\\Calculator.Console.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\Dell\\Desktop\\GitHub\\Calculator\\Src\\Calculator.Console\\Calculator.Console.csproj",
+        "projectUniqueName": "C:\\Users\\Dell\\Desktop\\GitHub\\Calculator\\src\\Calculator.Console\\Calculator.Console.csproj",
         "projectName": "Calculator.Console",
-        "projectPath": "c:\\Users\\Dell\\Desktop\\GitHub\\Calculator\\Src\\Calculator.Console\\Calculator.Console.csproj",
+        "projectPath": "C:\\Users\\Dell\\Desktop\\GitHub\\Calculator\\src\\Calculator.Console\\Calculator.Console.csproj",
         "packagesPath": "C:\\Users\\Dell\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\Dell\\Desktop\\GitHub\\Calculator\\Src\\Calculator.Console\\obj\\",
+        "outputPath": "C:\\Users\\Dell\\Desktop\\GitHub\\Calculator\\src\\Calculator.Console\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Dell\\AppData\\Roaming\\NuGet\\NuGet.Config"
